@@ -1,5 +1,4 @@
 # Buchtauschapp
-# BookSwap Database
 
 ## Beschreibung
 
