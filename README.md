@@ -23,7 +23,6 @@ Es handelt sich um eine relationale Datenbank umgesetzt mit SQLite für eine Buc
 
 - Entity-Relationship-Diagramm
 - Anforderungsspezifikation
-- Beschreibung der Arbeit und Arbeitsschritte
 - Dokumentation der SQL-Statements
 - Zusammenfassung der Implementierung
 - SQL-Datei
