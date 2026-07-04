@@ -4,7 +4,7 @@
 
 Dieses Projekt entstand im Rahmen des Projektes Data-Mart-Erstellung in SQL.
 
-Es handelt sich um eine relationale Datenbank für eine Buchtausch-App und ermöglicht die Verwaltung von:
+Es handelt sich um eine relationale Datenbank umgesetzt mit SQLite für eine Buchtausch-App und ermöglicht die Verwaltung von:
 
 - Benutzer:innen
 - Rollen
@@ -21,13 +21,13 @@ Es handelt sich um eine relationale Datenbank für eine Buchtausch-App und ermö
 
 ## Dateien
 
-- Phase 1 Doks
-- Phase 2 Doks
-- PDF
+- Entity-Relationship-Diagramm
+- Anforderungsspezifikation
+- Beschreibung der Arbeit und Arbeitsschritte
+- Dokumentation der SQL-Statements
+- Zusammenfassung der Implementierung
+- SQL-Datei
+- DB-Datei
+- Installationsanleitung
+- Abschlussbericht
 - Abstract
-
-## Installation
-
-1. SQLite oder DB Browser for SQLite öffnen.
-2. Die Datei `xxx` ausführen oder `xxx` öffnen.
-3. Die Datenbank steht anschließend zur Verfügung.
